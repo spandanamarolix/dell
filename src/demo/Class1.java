@@ -6,6 +6,8 @@ public class Class1 {
 		
 		System.out.println("Happy Dussehra");
 		
+		System.out.println("Enjoy the holidays");
+		
 	}
 
 }
